@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sheogoradik/rickandmortyapp.git/static/css/main.fddeadfb.css",
+    "main.js": "/sheogoradik/rickandmortyapp.git/static/js/main.64dc038e.js",
+    "static/media/banner.png": "/sheogoradik/rickandmortyapp.git/static/media/banner.7249c132022b75101791.png",
+    "index.html": "/sheogoradik/rickandmortyapp.git/index.html",
+    "main.fddeadfb.css.map": "/sheogoradik/rickandmortyapp.git/static/css/main.fddeadfb.css.map",
+    "main.64dc038e.js.map": "/sheogoradik/rickandmortyapp.git/static/js/main.64dc038e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fddeadfb.css",
+    "static/js/main.64dc038e.js"
+  ]
+}
